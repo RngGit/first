@@ -1,0 +1,7 @@
+TestNG annotations
+implicit and explicit wait in selenium
+how to handle dropdown in selenium
+how to handle alert
+how to run in headless mode
+action class in selenium
+selenium grid - how to setup
